@@ -1,0 +1,9 @@
+# Editors
+/.idea/
+/.vs/
+
+# Build
+/build/
+*.3dsx
+*.smdh
+*.elf
